@@ -18,5 +18,3 @@ COMMANDS
 2. docker-compose build --no-cache
 3. docker-compose exec web sh
 4. docker-compose exec db sh
-
-
