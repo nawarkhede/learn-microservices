@@ -17,6 +17,6 @@ services:
     depends_on:
       - db
 
-  queue:
+  queue_123:
     build: .
     command: python consumer.py
